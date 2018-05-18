@@ -11,6 +11,7 @@
   "author": "Joris Sparla <joris.sparla@gmail.com>",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.16.3"
+    "express": "^4.16.3",
+    "nodemon": "^1.17.4"
   }
 }
